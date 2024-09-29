@@ -1,2 +1,8 @@
---upgrade transformers
--q torch flash-attn qwen-vl-utils spaces gradio tiktoken verovio
+transformers==4.45.1
+torch
+torchvision
+qwen-vl-utils
+spaces
+gradio
+tiktoken
+verovio
