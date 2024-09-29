@@ -1,2 +1,2 @@
-streamlit
-openai
+--upgrade transformers
+-q torch flash-attn qwen-vl-utils spaces gradio tiktoken verovio
