@@ -10,7 +10,7 @@ Plain Texts OCR & Format Texts OCR: Use these modes for basic image-level OCR.
 Plain Multi-Crop OCR & Format Multi-Crop OCR: Ideal for images with complex content, offering higher-quality results.
 Plain Fine-Grained OCR & Format Fine-Grained OCR: These modes allow you to specify fine-grained regions on the image for more flexible OCR. Regions can be defined by coordinates or colors (red, blue, green, black or white).
 
-[![Open in ](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
+[![Open in ](https://x.com/Gradio/photo)](https://huggingface.co/spaces/Solo448/OCR_MULTILINGUAL-GOT)
 
 ### How to run it on your own machine
 
@@ -20,8 +20,3 @@ Plain Fine-Grained OCR & Format Fine-Grained OCR: These modes allow you to speci
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
